@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+input{
+    margin: 50px;
+}
+button{
+    margin: 10px;
+}
+div{
+    text-align: center;
+    border: 2px;
+    border-radius: 20%;
+    height: 200px;
+    width: 200px;
+}
+.flash{
+    background-color: aqua;
+}li{
+    color: black;
+}
+button:hover{
+    box-shadow: 2px 2px 2px;
+}
